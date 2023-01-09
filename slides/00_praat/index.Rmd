@@ -1,8 +1,8 @@
 ---
 title       : 'Español 362: Fonética y fonología españolas'
 subtitle    : "Praat"
-author      : "Joseph V. Casillas, PhD"
-date    : "Rutgers University</br>Spring 2020</br>Last update: `r Sys.Date()`"
+author      : "Kyle Parrish"
+date    : "Rutgers University</br>Spring 2023</br>Last update: `r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -399,9 +399,9 @@ la anterioridad (F2, el eje horizontal) y la altura (F1, el eje vertical).
 library("tidyverse")
 library("untidydata")
 data("spanish_vowels")
-spanish_vowels %>% 
-  separate(label, into = c("id", "gender", "vowel")) %>% 
-  vowel_plot(data = ., vowel = 'vowel', f1 = 'f1', f2 = 'f2')
+#spanish_vowels %>% 
+ # separate(label, into = c("id", "gender", "vowel")) %>% 
+  #vowel_plot(data = ., vowel = 'vowel', f1 = 'f1', f2 = 'f2')
 ```
 
 ]

@@ -3,7 +3,8 @@
   <head>
     <title>Fonética y fonología españolas</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Joseph V. Casillas, PhD" />
+    <meta name="author" content="Kyle Parrish" />
+    <script src="assets/header-attrs/header-attrs.js"></script>
     <link href="assets/remark-css/hygge.css" rel="stylesheet" />
     <link href="assets/remark-css/rutgers.css" rel="stylesheet" />
     <link href="assets/remark-css/rutgers-fonts.css" rel="stylesheet" />
@@ -15,8 +16,9 @@ class: center, middle, inverse, title-slide
 
 # Fonética y fonología españolas
 ## La sílaba, los diptongos y los hiatos
-### Joseph V. Casillas, PhD
-### Rutgers University</br>Primavera 2020</br>Última actualización: 2020-01-28
+### Kyle Parrish
+### Rutgers University</br>Primavera 2023</br>Última actualización:
+2023-01-08
 
 ---
 
@@ -1016,6 +1018,8 @@ class: title-slide-final, left
 - Teschner, Richard V. 1996. Camino oral: fonética, fonología y práctica de los sonidos del español.  New York: McGraw-Hill. [Libro de texto y cassettes]. 
 
 - Hualde, J.I. (2013). *Los sonidos del español*. Cambridge University Press.
+
+
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js"></script>
@@ -1065,6 +1069,32 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
 // adds .remark-code-has-line-highlighted class to <pre> parent elements
 // of code chunks containing highlighted lines with class .remark-code-line-highlighted
 (function(d) {
@@ -1082,17 +1112,6 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   }
   preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
 })(document);</script>
-
-<script>
-(function() {
-  var links = document.getElementsByTagName('a');
-  for (var i = 0; i < links.length; i++) {
-    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
-      links[i].target = '_blank';
-    }
-  }
-})();
-</script>
 
 <script>
 slideshow._releaseMath = function(el) {
