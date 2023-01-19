@@ -36,25 +36,64 @@ background-position: 85% 30%
 
 .big[
 
-Primavera 2020  
-Lunes y jueves 1:10 – 2:30 pm  
-Lugar: AB-5190  
-Profesor: Joseph Casillas  
+Primavera 2023
+Lunes y jueves 10:40am – 11:40am  
+Lugar: FR-A4  
+Profesor: Kyle Parrish  
 
-Despacho: AB 5174  
-Horas de oficina: martes y jueves antes de clase y mediante cita  
-Email: joseph.casillas@rutgers.edu
+Despacho: AB 5184  
+Horas de oficina: antes/después de clase y mediante cita  
+Email: kyle.parrish@rutgers.edu
 ]
 
 ---
 
+# About me
+
+.big[
+- Soy Kyle 
+
+- Soy estudiante de posgrado en el programa SLA y bilingüismo en el departamento de español y portugués en la Universidad de Rutgers
+
+- Mi investigación se enfoque en la adquisición de la fonética en una tercera lengua
+
+- ¡Soy un nuevo padre!
+]
+
+---
+
+background-image: url(v_2.jpg)
+background-size: contain
+
+---
+
+# About you!
+
+.big[
+Quiero saber un poco de ustedes..
+
+1. ¿Cómo te llamas?
+
+2. ¿Cuál es tu carrera universitaria?
+
+3. ¿Por qué decidiste estudiar la fonética?
+
+4. ¿Cuál es tu animal favorito?
+]
+
+---
+
+background-image: url(whale.jpg)
+background-size: contain
+
+---
 # Materiales
 
 ## Página web de clase
 
-- Canvas: [https://rutgers.instructure.com/courses/39796](https://rutgers.instructure.com/courses/39796)
-  - Presentaciones disponibles [aquí](http://www.jvcasillas.com/ru_teaching/ru_spanish_362/362_04_s2020/syllabus/)
-  - Resúmenes imprimibles al final de cada presentación
+- Canvas: [https://rutgers.instructure.com/courses/214083](https://rutgers.instructure.com/courses/214083)
+  - Presentaciones disponibles [aquí](https://kparrish92.github.io/362_s22/syllabus/)
+
 
 <br/>
 
@@ -104,29 +143,6 @@ que a menudo se interponen a la práctica de la pronunciación.
 
 .big[
 
-# Aviso
-
-As per SAS policy, a student cannot earn credit for language courses taken 
-below their foreign language placement. Please verify that you are enrolled in 
-a course that corresponds to your placement level, even if Webreg allow you to 
-register for the course. Please go to the SAS website linked 
-[here][here] to learn of SAS academic policy on foreign languages. You may 
-also visit the Department of Spanish and Portuguese [website][website]. 
-Placement exam results can be found in Degree Navigator under your course 
-list. Results will be at the bottom of page. If you have questions about your 
-placement, contact Prof. Dámaris Otero-Torres, Undergraduate Director, via 
-e-mail at dotero@spanport.rutgers.edu during the first two weeks of classes 
-(before the end of the add/drop period). It is your responsibility to be 
-enrolled in the language course that corresponds to your placement.
-
-[here]: http://sasundergrad.rutgers.edu/academics/courses/registration-and-course-policies/foreign-language-courses
-[website]: http://span-port.rutgers.edu/undergraduate
-]
-
----
-
-.big[
-
 # Fechas importantes
 
 La asignatura comienza el día 21 de enero y termina el día 6 de mayo. 
@@ -165,9 +181,9 @@ El último día para dejar la clase sin sacar "w" es el día 28 de enero.
 | :----------------------------------- | :-- |
 | Preparación, participación           | 10% |
 | Tareas/pruebitas                     | 10% |
-| Trabajo práctico 1                   | 10% |
-| Trabajo práctico 2                   | 10% |
-| Pruebas                              | 60% |
+| Trabajo práctico 1                   | 20% |
+| Trabajo práctico 2                   | 20% |
+| Pruebas                              | 40% |
 ]
 
 ---
@@ -430,7 +446,7 @@ Fecha: October 24, 2016 11:45:48 AM EST-04:00
 A: nieri@rci.rutgers.edu  
 Asunto: Clarificación: transcripción - Español 362 sección 2  
 
-Estimado Prof. Casillas,  
+Estimado Prof. Parrish,  
 Me llamo *Estudiante Confundido* y estoy en su curso de español 362  
 sección 2. Estoy leyendo las instrucciones para la transcripción  
 y no entendí uno de los requisitos. ¿Qué quiere decir con "transcripción  
@@ -488,24 +504,25 @@ proporcionando detalles y fechas más exactas más adecuadas al ritmo de la clas
 ---
 class: center, middle
 
-|   Semana  |    Fecha     |                                Tema                          |
-| :-------- | :----------- | :----------------------------------------------------------- |
-| Semana 1  | 01/21, 01/23 | Intro al curso. Grabaciones.                                 |
-| Semana 2  | 01/28, 01/30 | La sílaba. Diptongos. Hiatos.                                |
-| Semana 3  | 02/04, 02/06 | Consonantes [ʝ] y [w]. Diptongos y semivocales.              |
-| Semana 4  | 02/11, 02/13 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa.        |
-| Semana 5  | 02/18, 02/20 | Prueba 1, Fonética articulatoria: vocales.                   |
-| Semana 6  | 02/25, 02/27 | Fonética articulatoria: consonantes.                         |
-| Semana 7  | 03/03, 03/05 | El fonema. Transcripción fonética.                           |
-| Semana 8  | 03/10, 03/12 | Prueba 2. Oclusivas sordas, africadas.                       |
-| --        | 03/17, 03/19 | **Spring break**                                             |
-| Semana 9  | 03/24, 03/26 | Obstruyentes sonoras /b, d, g/ y /ʝ/.                        |
-| Semana 10 | 03/31, 04/02 | Fricativas: /f, s, x/.                                       |
-| Semana 11 | 04/07, 04/09 | Nasales y laterales. Trabajo práctico \#1.                   |
-| Semana 12 | 04/14, 04/16 | Prueba 3, Vibrantes.                                         |
-| Semana 13 | 04/21, 04/23 | Variación dialectal.                                         |
-| Semana 14 | 04/28, 05/30 | Variación dialectal.                                         | 
-| Semana 15 | 05/08        | Prueba 4. Trabajo práctico.                                  |
+
+| Semana |    Fecha     |                                Tema                   |
+| :----- | :----------- | :---------------------------------------------------- |
+|  1     | 01/19        | Intro al curso. Grabaciones.                          |
+|  2     | 01/23, 01/26 | La sílaba. Diptongos. Hiatos.                         |
+|  3     | 01/30, 02/02 | Consonantes [ʝ] y [w]. Diptongos y semivocales.       |
+|  4     | 02/06, 02/09 | Sílabas, vocales y ritmo. Vocales en contacto. Schwa. |
+|  5     | 02/13, 02/16 | Prueba 1, Fonética articulatoria: vocales.            |
+|  6     | 02/20, 02/23 | Fonética articulatoria: consonantes.                  |
+|  7     | 02/27, 03/02 | El fonema. Transcripción fonética.                    |
+|  8     | 03/06, 03/09 | Prueba 2. Oclusivas sordas, africadas.                |
+|  Break     | 03/13, 03/16 | Spring Break.                 |
+|  9     | 03/27, 03/30 | Obstruyentes sonoras /b, d, g/ y /ʝ/.                 |
+|  10    | 04/03, 04/06 | Fricativas: /f, s, x/.                                |
+|  11    | 04/10, 04/13 | Nasales y laterales. Trabajo práctico \#1.            |
+|  12    | 04/17, 04/20 | Prueba 3, Vibrantes.                                  |
+|  13    | 04/24, 04/27 | Variación dialectal.       |
+|  14    | 05/01 | Variación dialectal.                                  | 
+|  15    | 05/08 | Prueba 4. Trabajo práctico. (05/08)                   |
 
 ---
 class: title-slide-final, middle
