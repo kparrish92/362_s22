@@ -1,9 +1,0 @@
----
-output: html_document
----
-
-
-[Trabajo práctico 1, pt. 1](https://kparrish92.github.io/362_s22/slides/00_praat/index.html#24)
-
-<meta http-equiv="refresh" content="0; url='https://kparrish92.github.io/362_s22/slides/00_praat/index.html#24'"/>
-
